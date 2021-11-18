@@ -1,8 +1,0 @@
-action count
-kibo_katana_spinning_slash 2
-kibo_katana_super_1_slash_1 1
-kibo_katana_super_1_slash_2 1
-kibo_katana_super_1_slash_3 1
-shadow_katana_slash_1_miss 1
-shadow_katana_slash_1_start 1
-shuriken_player_throw 3

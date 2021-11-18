@@ -1,8 +1,0 @@
-action count
-chakram_player_throw 1
-k_agl_jump_front_heavy 1
-staff_slash_1 7
-staff_slash_2 5
-staff_slash_3 4
-staff_spinning_slash_1 1
-staff_spinning_slash_2 1

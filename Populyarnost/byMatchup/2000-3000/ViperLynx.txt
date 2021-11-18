@@ -1,4 +1,0 @@
-action count
-k_prc_kick_1 7
-k_prc_kick_2 1
-lying_kick_spine_back 3

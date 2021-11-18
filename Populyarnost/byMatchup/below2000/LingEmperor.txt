@@ -1,4 +1,0 @@
-action count
-katana_heavy_slash_ling 1
-katana_super_2_slash_1_ling 6
-katana_super_2_slash_2_ling 3

@@ -1,7 +1,0 @@
-action count
-k_str_jump_front_heavy 1
-k_str_spinning_kick 1
-lying_kick_face_back 1
-p_agl_heavy_punch_ironclad 1
-shadow_strong_armor 1
-shadow_thud 1

@@ -1,3 +1,0 @@
-action count
-k_prc_kick_1 2
-lying_kick_face_front 1

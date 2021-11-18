@@ -1,5 +1,0 @@
-action count
-lynx_claws_spinning_slash 2
-lynx_claws_super_slash_1 4
-lynx_claws_super_slash_2 3
-lynx_claws_super_slash_active 2
