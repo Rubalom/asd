@@ -1,0 +1,15 @@
+action count
+k_str_jump_front_heavy 36
+k_str_kick 2
+k_str_spinning_kick 2
+k_str_super_4_kick_1_ironclad 6
+k_str_super_4_kick_2_ironclad 2
+lying_kick_spine_back 4
+p_agl_heavy_punch_ironclad 2
+p_str_low_punch_ironclad 10
+p_str_punch_1_ironclad 64
+p_str_punch_2_ironclad 34
+p_str_spinning_punch_1_ironclad 8
+p_str_spinning_punch_2_ironclad 4
+shadow_strong_armor 8
+shadow_thud 6

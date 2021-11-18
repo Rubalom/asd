@@ -1,0 +1,15 @@
+action count
+chakram_player_throw 4
+k_agl_jump_front_heavy 1
+lying_kick_face_back 1
+lying_kick_face_front 2
+shadow_staff_continue_mirror_special 2
+shadow_staff_continue_special 4
+staff_forward_special 4
+staff_heavy_slash 1
+staff_slash_1 6
+staff_slash_2 3
+staff_slash_3 2
+staff_spinning_slash_1 1
+staff_super_1_slash_1 2
+staff_super_1_slash_2 1

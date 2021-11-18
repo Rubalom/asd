@@ -1,0 +1,12 @@
+action count
+agile_throwing_knife_player_throw 1
+claws_1_spinning_slash_1 1
+claws_1_spinning_slash_2 1
+emperor_shadow_blade_throw_active 1
+emperor_shadow_blade_throw_miss 1
+emperor_spike_player_throw 1
+k_agl_low_1 1
+k_agl_low_2 1
+p_agl_punch_1 7
+p_agl_punch_2 4
+p_agl_punch_3 3

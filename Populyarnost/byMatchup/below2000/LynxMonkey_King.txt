@@ -1,0 +1,10 @@
+action count
+k_prc_front_kick 2
+k_prc_kick_1 12
+k_prc_kick_2 4
+k_prc_spinning_kick 1
+lying_kick_spine_front 2
+lynx_claws_spinning_slash 2
+lynx_claws_super_slash_1 22
+lynx_claws_super_slash_2 16
+lynx_claws_super_slash_active 2

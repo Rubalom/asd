@@ -1,0 +1,13 @@
+action count
+guandao_heavy_slash_1 6
+guandao_slash_1 3
+guandao_slash_2 2
+guandao_slash_3 2
+guandao_spinning_slash_1 4
+guandao_super_2_slash_1 4
+guandao_super_2_slash_2 1
+lying_kick_face_front 1
+shadow_agile_helmet_3 1
+shadow_guandao_slash_1 2
+shadow_mine_end 1
+shadow_mine_start 1

@@ -1,0 +1,3 @@
+action count
+lying_kick_face_front 1
+lying_kick_spine_front 2

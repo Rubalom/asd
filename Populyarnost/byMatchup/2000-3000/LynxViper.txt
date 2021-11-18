@@ -1,0 +1,4 @@
+action count
+lying_kick_spine_front 2
+lynx_claws_super_slash_1 3
+lynx_claws_super_slash_2 2

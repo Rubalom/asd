@@ -1,0 +1,15 @@
+action count
+k_prc_jump_front_heavy 6
+k_prc_spinning_kick 1
+kunai_midnight_player_throw 20
+lying_kick_face_front 1
+lying_kick_spine_back 2
+sai_heavy_slash 23
+sai_low_slash 2
+sai_slash_1 8
+sai_slash_2 4
+sai_spinning_slash 2
+sai_super_slash_1 36
+sai_super_slash_2 7
+shadow_sai_slash_1_active 5
+shadow_sai_slash_1_miss 7

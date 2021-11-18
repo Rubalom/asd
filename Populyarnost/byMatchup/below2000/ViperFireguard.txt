@@ -1,0 +1,6 @@
+action count
+k_prc_front_kick 4
+k_prc_kick_1 8
+k_prc_kick_2 4
+lying_kick_face_front 2
+lying_kick_spine_back 6

@@ -1,0 +1,17 @@
+action count
+k_str_jump_front 2
+k_str_jump_front_heavy 5
+lying_kick_face_back 1
+lying_kick_face_front 2
+lying_kick_spine_front 4
+paladinessa_fly 8
+paladinessa_fly_left 5
+paladinessa_fly_left_active 4
+pistol_player_shoot 8
+sword_lonely_heavy_slash 14
+sword_lonely_slash_1 14
+sword_lonely_slash_2 11
+sword_lonely_spinning_slash 6
+sword_lonely_super_1_slash_1 23
+sword_lonely_super_1_slash_2 12
+sword_lonely_upper_slash 1

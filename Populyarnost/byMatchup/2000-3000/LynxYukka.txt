@@ -1,0 +1,13 @@
+action count
+k_prc_jump_front_heavy 9
+k_prc_kick_1 3
+lynx_claws_slash_1_long 1
+lynx_claws_spinning_slash_long 2
+lynx_claws_super_slash_1 28
+lynx_claws_super_slash_1_long 3
+lynx_claws_super_slash_2 16
+lynx_claws_super_slash_2_long 2
+lynx_claws_super_slash_active 4
+lynx_claws_super_slash_active_long 1
+lynx_shadow_claws_slash_1 2
+lynx_shadow_claws_slash_1_active 2

@@ -1,0 +1,14 @@
+action count
+dual_hammers_heavy_slash 4
+dual_hammers_low_slash_1 4
+dual_hammers_slash_1 8
+dual_hammers_slash_2 6
+dual_hammers_slash_3 6
+dual_hammers_spinning_slash 20
+dual_hammers_super_1_slash_1 6
+dual_hammers_super_1_slash_2 6
+k_str_jump_front 2
+lying_kick_face_front 4
+lying_kick_spine_back 2
+lying_kick_spine_front 2
+sarge_super_ranged 4

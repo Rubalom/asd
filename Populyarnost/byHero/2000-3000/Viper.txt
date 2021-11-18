@@ -1,0 +1,12 @@
+action count
+k_prc_front_kick 237
+k_prc_jump_front_heavy 1237
+k_prc_jump_up 74
+k_prc_kick_1 2540
+k_prc_kick_2 1020
+k_prc_low 725
+k_prc_spinning_kick 283
+lying_kick_face_back 199
+lying_kick_face_front 593
+lying_kick_spine_back 166
+lying_kick_spine_front 321
